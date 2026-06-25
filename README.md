@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shivam20044/DSA/tree/master/0796-rotate-string) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shivam20044/DSA/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shivam20044/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
