@@ -10,21 +10,16 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
-        temp=head
-        count=0
-        while temp is not None:
-            count+=1
-            temp=temp.next
-        if count==n:
-            head=head.next
-            return head
-        stop_pos=count-n
-        temp=head
-        c=1
-        while c<stop_pos:
-            temp=temp.next
-            c+=1
-        temp.next=temp.next.next
+        slow=head
+        fast=head
+        for _ in range(n):
+            fast=fast.next
+        if fast is None:
+            return head.next
+        while fast.next is not None:
+            fast=fast.next
+            slow=slow.next
+        slow.next=slow.next.next
         return head
 
         
