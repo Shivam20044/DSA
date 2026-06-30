@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shivam20044/DSA/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Shivam20044/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
