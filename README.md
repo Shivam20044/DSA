@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivam20044/DSA/tree/master/0022-generate-parentheses) |
 | [0796-rotate-string](https://github.com/Shivam20044/DSA/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -85,5 +86,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivam20044/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Shivam20044/DSA/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shivam20044/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
