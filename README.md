@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Shivam20044/DSA/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam20044/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivam20044/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Shivam20044/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivam20044/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Shivam20044/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivam20044/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivam20044/DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Shivam20044/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivam20044/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Shivam20044/DSA/tree/master/0078-subsets) |
 ## Dynamic Programming
