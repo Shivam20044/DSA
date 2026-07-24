@@ -5,22 +5,24 @@ class Solution(object):
         :type n: int
         :rtype: List[List[int]]
         """
-        nums=[1,2,3,4,5,6,7,8,9]
-        result=[]
-        def fun(index,total,count,subset):
-            if count==k:
-                if total==n:
-                    result.append(subset[:])
-                return
-            elif index>=len(nums) or total>n or count>k:
-                return
-            total=total+nums[index]
-            subset.append(nums[index])
-            fun(index+1,total,count+1,subset)
-            total=total-nums[index]
-            subset.pop()
-            fun(index+1,total,count,subset)
         
-        fun(0,0,0,[])
+        result=[]
+        def fun(last,total,count,subset):
+            if count==k and total==n:
+                result.append(subset[:])
+                return
+            elif last>=10 or count>k or total>n:
+                return
+            for i in range(last,10):
+                total=total+i
+                subset.append(i)
+                fun(i+1,total,count+1,subset)
+                total=total-i
+                subset.pop()
+    
+        fun(1,0,0,[])
         return result
+
+
+
         
