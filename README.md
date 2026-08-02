@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Shivam20044/DSA/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Shivam20044/DSA/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/Shivam20044/DSA/tree/master/0503-next-greater-element-ii) |
+| [0904-fruit-into-baskets](https://github.com/Shivam20044/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivam20044/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam20044/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Shivam20044/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam20044/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0904-fruit-into-baskets](https://github.com/Shivam20044/DSA/tree/master/0904-fruit-into-baskets) |
 ## Stack
 |  |
 | ------- |
@@ -122,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Shivam20044/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivam20044/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
