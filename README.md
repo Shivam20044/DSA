@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shivam20044/DSA/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/Shivam20044/DSA/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Shivam20044/DSA/tree/master/0503-next-greater-element-ii) |
+| [0860-lemonade-change](https://github.com/Shivam20044/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Shivam20044/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivam20044/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam20044/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -139,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Shivam20044/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Shivam20044/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Shivam20044/DSA/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
