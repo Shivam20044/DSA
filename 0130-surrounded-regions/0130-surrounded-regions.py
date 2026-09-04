@@ -4,49 +4,40 @@ class Solution(object):
         :type board: List[List[str]]
         :rtype: None Do not return anything, modify board in-place instead.
         """
-        r=len(board)
-        c=len(board[0])
+        if not board or not board[0]:
+            return
 
-        mark=[[0 for _ in range(c)] for _ in range(r)]
-        def dfs(i,j,mark,board):
-            if mark[i][j]==1:
+        r = len(board)
+        c = len(board[0])
+
+        def dfs(i, j):
+            # Base case: stop if out of bounds or if the cell is not 'O'
+            if i < 0 or i >= r or j < 0 or j >= c or board[i][j] != "O":
                 return
-            mark[i][j]=1
-            for dx, dy in [(1,0), (-1,0), (0,1), (0,-1)]:
-                new_i,new_j=i+dx,j+dy
-                if new_i<0 or new_i>=len(board) or new_j<0 or new_j>=len(board[0]) or board[new_i][new_j]=="X" or mark[new_i][new_j]==1:
-                    continue
-                dfs(new_i,new_j,mark,board)
+            
+            # Temporarily mark the safe 'O' as 'T'
+            board[i][j] = "T"
+            
+            # Flood fill in all 4 directions
+            dfs(i + 1, j)
+            dfs(i - 1, j)
+            dfs(i, j + 1)
+            dfs(i, j - 1)
 
+        # 1. Check Top and Bottom rows
         for j in range(c):
-            if board[0][j]=="O":
-                dfs(0,j,mark,board)
-        
-    # 2. Right Column (Top to Bottom) - Start at row 1 to avoid double-counting the top-right corner
-        for i in range(1, r):
-            if board[i][c-1]=="O":
-                dfs(i,c-1,mark,board)
-        
-        
-    # 3. Bottom Row (Right to Left) - Check if r > 1 to avoid duplicating the top row in a 1D array
-        if r > 1:
-            for j in range(c - 2, -1, -1):
-                if board[r-1][j]=="O":
-                    dfs(r-1,j,mark,board)
-            
-            
-    # 4. Left Column (Bottom to Top) - Check if c > 1 to avoid duplicating the right column
-        if c > 1:
-            for i in range(r - 2, 0, -1):
-                if board[i][0]=="O":
-                    dfs(i,0,mark,board)
-        
-        
+            if board[0][j] == "O": dfs(0, j)
+            if board[r-1][j] == "O": dfs(r-1, j)
+                
+        # 2. Check Left and Right columns (skipping corners to avoid redundancy)
+        for i in range(1, r - 1):
+            if board[i][0] == "O": dfs(i, 0)
+            if board[i][c-1] == "O": dfs(i, c-1)
+
+        # 3. Final Pass: Flip remaining 'O's to 'X', and restore 'T's back to 'O'
         for i in range(r):
             for j in range(c):
-                if board[i][j] == "O" and mark[i][j] == 0:
-                    board[i][j]="X"
-        return board
-            
-
-        
+                if board[i][j] == "O":
+                    board[i][j] = "X"
+                elif board[i][j] == "T":
+                    board[i][j] = "O"
