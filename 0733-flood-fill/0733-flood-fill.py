@@ -1,3 +1,4 @@
+from collections import deque
 class Solution(object):
     def floodFill(self, image, sr, sc, color):
         """
@@ -9,26 +10,23 @@ class Solution(object):
         """
         if color==image[sr][sc]:
             return image
-        val=image[sr][sc]
+        
         vis=deepcopy(image)
+        val=vis[sr][sc]
         r,c=len(vis),len(vis[0])
-        intial_color=vis[sr][sc]
-        def dfs(i,j,new_color,initial_color,vis,r,c):
-            if i<0 or i>=r or j<0 or j>=c:
-                return
-            if vis[i][j]!=intial_color:
-                return
-            if vis[i][j]==new_color:
-                return
-            vis[i][j]=new_color
-            dfs(i+1,j,new_color,initial_color,vis,r,c)
-            dfs(i,j-1,new_color,initial_color,vis,r,c)
-            dfs(i-1,j,new_color,initial_color,vis,r,c)
-            dfs(i,j+1,new_color,initial_color,vis,r,c)
-        dfs(sr,sc,color,intial_color,vis,r,c)
+        queue=deque()
+        queue.append((sr,sc))
+        while queue:
+            i,j=queue.popleft()
+            vis[i][j]=color
+            for dx,dy in [(1,0),(-1,0),(0,1),(0,-1)]:
+                new_i,new_j=i+dx,j+dy
+                if new_i<0 or new_i>=r or new_j<0 or new_j>=c or vis[new_i][new_j]==color or vis[new_i][new_j]!=val:
+                    continue
+                queue.append((new_i,new_j))
         return vis
-     
-                
+
+
 
             
             
