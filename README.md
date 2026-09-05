@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivam20044/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Shivam20044/DSA/tree/master/0070-climbing-stairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivam20044/DSA/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Shivam20044/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Shivam20044/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shivam20044/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/Shivam20044/DSA/tree/master/0542-01-matrix) |
 ## Design
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Shivam20044/DSA/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/Shivam20044/DSA/tree/master/1020-number-of-enclaves) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shivam20044/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
