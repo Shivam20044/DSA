@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam20044/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Shivam20044/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivam20044/DSA/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/Shivam20044/DSA/tree/master/0127-word-ladder) |
 | [0796-rotate-string](https://github.com/Shivam20044/DSA/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam20044/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/Shivam20044/DSA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Shivam20044/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam20044/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0904-fruit-into-baskets](https://github.com/Shivam20044/DSA/tree/master/0904-fruit-into-baskets) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam20044/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Shivam20044/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Shivam20044/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivam20044/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/Shivam20044/DSA/tree/master/0542-01-matrix) |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivam20044/DSA/tree/master/0070-climbing-stairs) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Shivam20044/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
