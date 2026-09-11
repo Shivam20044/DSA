@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam20044/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Shivam20044/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivam20044/DSA/tree/master/0022-generate-parentheses) |
+| [0126-word-ladder-ii](https://github.com/Shivam20044/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Shivam20044/DSA/tree/master/0127-word-ladder) |
 | [0796-rotate-string](https://github.com/Shivam20044/DSA/tree/master/0796-rotate-string) |
 ## String Matching
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam20044/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0126-word-ladder-ii](https://github.com/Shivam20044/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Shivam20044/DSA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Shivam20044/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam20044/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shivam20044/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Shivam20044/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shivam20044/DSA/tree/master/0078-subsets) |
+| [0126-word-ladder-ii](https://github.com/Shivam20044/DSA/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Shivam20044/DSA/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam20044/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/Shivam20044/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Shivam20044/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Shivam20044/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Shivam20044/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -214,5 +218,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Shivam20044/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Shivam20044/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
