@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Shivam20044/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Shivam20044/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shivam20044/DSA/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Shivam20044/DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Shivam20044/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Shivam20044/DSA/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Shivam20044/DSA/tree/master/0994-rotting-oranges) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shivam20044/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Shivam20044/DSA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Shivam20044/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Shivam20044/DSA/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
 | ------- |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Shivam20044/DSA/tree/master/0785-is-graph-bipartite) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Shivam20044/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
