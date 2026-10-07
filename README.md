@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Shivam20044/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Shivam20044/DSA/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam20044/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shivam20044/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Shivam20044/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shivam20044/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shivam20044/DSA/tree/master/0234-palindrome-linked-list) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shivam20044/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivam20044/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam20044/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0904-fruit-into-baskets](https://github.com/Shivam20044/DSA/tree/master/0904-fruit-into-baskets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shivam20044/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Shivam20044/DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Shivam20044/DSA/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Shivam20044/DSA/tree/master/0455-assign-cookies) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shivam20044/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Shivam20044/DSA/tree/master/0735-asteroid-collision) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Shivam20044/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
